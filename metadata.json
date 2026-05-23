@@ -1,0 +1,6 @@
+{
+  "name": "Молочный Блог",
+  "description": "Лаконичный ежедневный блог для снятия стресса: добрые новости, космический прогноз, успокаивающие истории, советы для нервной системы и факты о природе.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
